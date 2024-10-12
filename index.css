@@ -1,0 +1,11 @@
+
+#box{
+    font-weight: bold;
+    font-size: 40px;
+    width: 200px;
+    border: 2px solid red;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+}
